@@ -7,7 +7,7 @@ def say(something):
     system('say "%s"' % something)
 
 #how big a number should we guess?
-max_number = 10
+max_number = 20
 first_line = "Guess a number between 1 and %d" % max_number
 print(first_line)
 say(first_line)

@@ -1,6 +1,14 @@
 # python-game4kids
 For your Kids
 
+## Game list
+* Non GUI Game
+    * Count Number
+    * Math Quiz
+    * Snake Game
+* GUI Game
+    * Turtel Star
+
 ## Install Python Modules
 
 ```Python
