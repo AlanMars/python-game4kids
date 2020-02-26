@@ -8,6 +8,8 @@ For your Kids
     * Snake Game
 * GUI Game
     * Turtel Star
+* PyGame Zero
+    * Letter War
 
 ## Install Python Modules
 
